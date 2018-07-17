@@ -1,0 +1,14 @@
+uuid: ea8eb4af-7822-4148-b93f-26f439c900f3
+name: mailinblue
+mail: sergio@shiftr.tech
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
